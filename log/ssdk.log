@@ -1,0 +1,740 @@
+2024-02-01 15:21:49.864 +0530 [debug] ([34mconfigs.js[0m) [31mloaded default configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 15:21:49.864 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin/.ssdk/configs.json: Cannot find module 'C:\Users\arvin/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 15:21:49.865 +0530 [debug] ([34mconfigs.js[0m) [31mloaded global configs as "{}"[0m
+2024-02-01 15:21:49.865 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json: Cannot find module 'C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 15:21:49.865 +0530 [debug] ([34mconfigs.js[0m) [31mloaded local configs as "{}"[0m
+2024-02-01 15:21:49.865 +0530 [debug] ([34mconfigs.js[0m) [31mloaded env configs as "{"updates":{},"log":{},"javascript":{},"request":{"timeout":5000}}"[0m
+2024-02-01 15:21:49.865 +0530 [debug] ([34mconfigs.js[0m) [31mloaded resolved configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 15:21:49.865 +0530 [debug] ([34mlogger.js[0m) [31mStarting SSDK in node v18.19.0 on win32[0m
+2024-02-01 15:21:49.865 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/store.sqlite"[0m
+2024-02-01 15:21:49.866 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706778656241}}[0m
+2024-02-01 15:21:49.866 +0530 [debug] ([34mupdater.js[0m) [31mlast check less than 1 hours ago, not looking for updates[0m
+2024-02-01 15:21:49.869 +0530 [debug] ([34mindex.js[0m) [31mrunning with opts {}[0m
+2024-02-01 15:21:49.955 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706778656241}}[0m
+2024-02-01 15:21:49.970 +0530 [debug] ([34mcreate.js[0m) [31m'init' called with C:\Users\arvin\OneDrive\Desktop\chatgpt, undefined, undefined[0m
+2024-02-01 15:21:53.681 +0530 [debug] ([34mcreate.js[0m) [31mInitializing template "your_first_react_app" with product "surveysparrow".[0m
+2024-02-01 15:21:53.801 +0530 [info] A new Surveysparrow app was successfully created from template "your_first_react_app" with the following files.
+
+2024-02-01 15:26:25.808 +0530 [debug] ([34mconfigs.js[0m) [31mloaded default configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 15:26:25.809 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin/.ssdk/configs.json: Cannot find module 'C:\Users\arvin/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 15:26:25.809 +0530 [debug] ([34mconfigs.js[0m) [31mloaded global configs as "{}"[0m
+2024-02-01 15:26:25.809 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json: Cannot find module 'C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 15:26:25.810 +0530 [debug] ([34mconfigs.js[0m) [31mloaded local configs as "{}"[0m
+2024-02-01 15:26:25.810 +0530 [debug] ([34mconfigs.js[0m) [31mloaded env configs as "{"updates":{},"log":{},"javascript":{},"request":{"timeout":5000}}"[0m
+2024-02-01 15:26:25.810 +0530 [debug] ([34mconfigs.js[0m) [31mloaded resolved configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 15:26:25.810 +0530 [debug] ([34mlogger.js[0m) [31mStarting SSDK in node v18.19.0 on win32[0m
+2024-02-01 15:26:25.810 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/store.sqlite"[0m
+2024-02-01 15:26:25.810 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706778656241}}[0m
+2024-02-01 15:26:25.810 +0530 [debug] ([34mupdater.js[0m) [31mlast check less than 1 hours ago, not looking for updates[0m
+2024-02-01 15:26:25.813 +0530 [debug] ([34mindex.js[0m) [31mrunning with opts {}[0m
+2024-02-01 15:26:28.055 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"1.0","product":{"surveysparrow":{"location":{"full_page_app":{"url":"index.html","icon":"icon.svg"}}}},"whitelisted-domains":[],"engines":{"node":"18.19.0","ssdk":"0.1.9"}}.[0m
+2024-02-01 15:26:28.055 +0530 [debug] ([34mmanifest.js[0m) [31mInferred storage as features.[0m
+2024-02-01 15:26:28.069 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706778656241}}[0m
+2024-02-01 15:26:28.248 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706778656241}}[0m
+2024-02-01 15:26:30.921 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin\OneDrive\Desktop\chatgpt/.report.json: Cannot find module 'C:\Users\arvin\OneDrive\Desktop\chatgpt/.report.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 15:26:41.326 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706778656241}}[0m
+2024-02-01 15:26:48.832 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2024-02-01 15:26:48.833 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2024-02-01 15:26:48.833 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator requests[0m
+2024-02-01 15:26:48.833 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2024-02-01 15:26:48.834 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2024-02-01 15:26:48.834 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if C:\Users\arvin\OneDrive\Desktop\chatgpt/config/ exists.[0m
+2024-02-01 15:26:48.835 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2024-02-01 15:26:48.835 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2024-02-01 15:26:48.835 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2024-02-01 15:26:48.835 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2024-02-01 15:26:48.837 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator lint[0m
+2024-02-01 15:26:48.837 +0530 [debug] ([34mlint.js[0m) [31mpassed fix flag: undefined[0m
+2024-02-01 15:26:48.838 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2024-02-01 15:26:48.838 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2024-02-01 15:26:48.838 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2024-02-01 15:26:48.838 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2024-02-01 15:26:48.839 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2024-02-01 15:26:48.839 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator version-check[0m
+2024-02-01 15:26:49.364 +0530 [debug] ([34mcoverage.js[0m) [31mSnoozing coverage.[0m
+2024-02-01 15:26:49.365 +0530 [debug] ([34mfrontend_framework.js[0m) [31mMounting the default Webpack config[0m
+2024-02-01 15:26:58.712 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2024-02-01 15:26:58.714 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 15:26:58.714 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? undefined[0m
+2024-02-01 15:26:58.714 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync storage[0m
+2024-02-01 15:27:13.380 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\bigint-pivot.js"[0m
+2024-02-01 15:27:13.398 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field-choice.js"[0m
+2024-02-01 15:27:13.407 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field.js"[0m
+2024-02-01 15:27:13.417 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity.js"[0m
+2024-02-01 15:27:13.426 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\record.js"[0m
+2024-02-01 15:27:13.435 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\string-pivot.js"[0m
+2024-02-01 15:27:13.458 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 15:27:13.458 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2024-02-01 15:27:13.459 +0530 [info] Starting local testing server at https://*:30001/    
+Append 'dev=true' to your Surveysparrow account URL to start testing    
+e.g. https://domain.surveysparrow.com/settings/marketplace-apps?dev=true    
+Quit the server with Control-C.
+2024-02-01 15:27:14.152 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\index.html"}" to all listeners.[0m
+2024-02-01 15:27:14.220 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2024-02-01 15:27:14.239 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:27:14.240 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:27:14.250 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.3133680d.js[0m
+2024-02-01 15:27:14.256 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.3133680d.js[0m
+2024-02-01 15:27:14.759 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.018f4221.js[0m
+2024-02-01 15:27:14.760 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/main.018f4221.js[0m
+2024-02-01 15:28:31.650 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 15:28:31.653 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"chatgpt","product":{"surveysparrow":{"location":{"full_page_app":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["storage"],"actions":false,"omni":false,"products":["surveysparrow"],"platform":"1.0","isInstall":false,"v2":[]}[0m
+2024-02-01 15:28:35.019 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2024-02-01 15:28:35.039 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:28:35.040 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:28:35.047 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.3133680d.js[0m
+2024-02-01 15:28:35.053 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.3133680d.js[0m
+2024-02-01 15:28:35.066 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.018f4221.js[0m
+2024-02-01 15:28:35.067 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/main.018f4221.js[0m
+2024-02-01 15:32:10.620 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 15:32:10.621 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"chatgpt","product":{"surveysparrow":{"location":{"full_page_app":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["storage"],"actions":false,"omni":false,"products":["surveysparrow"],"platform":"1.0","isInstall":false,"v2":[]}[0m
+2024-02-01 15:32:13.210 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2024-02-01 15:32:13.223 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:32:13.224 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:32:13.230 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.3133680d.js[0m
+2024-02-01 15:32:13.237 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.3133680d.js[0m
+2024-02-01 15:32:13.248 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.018f4221.js[0m
+2024-02-01 15:32:13.248 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/main.018f4221.js[0m
+2024-02-01 15:33:12.006 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 15:33:12.007 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"chatgpt","product":{"surveysparrow":{"location":{"full_page_app":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["storage"],"actions":false,"omni":false,"products":["surveysparrow"],"platform":"1.0","isInstall":false,"v2":[]}[0m
+2024-02-01 15:33:17.174 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2024-02-01 15:33:17.192 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:33:17.193 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:33:17.199 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.3133680d.js[0m
+2024-02-01 15:33:17.205 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.3133680d.js[0m
+2024-02-01 15:33:17.215 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.018f4221.js[0m
+2024-02-01 15:33:17.216 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/main.018f4221.js[0m
+2024-02-01 15:33:31.971 +0530 [debug] ([34mconfigs.js[0m) [31mloaded default configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 15:33:31.972 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin/.ssdk/configs.json: Cannot find module 'C:\Users\arvin/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 15:33:31.972 +0530 [debug] ([34mconfigs.js[0m) [31mloaded global configs as "{}"[0m
+2024-02-01 15:33:31.972 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json: Cannot find module 'C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 15:33:31.973 +0530 [debug] ([34mconfigs.js[0m) [31mloaded local configs as "{}"[0m
+2024-02-01 15:33:31.973 +0530 [debug] ([34mconfigs.js[0m) [31mloaded env configs as "{"updates":{},"log":{},"javascript":{},"request":{"timeout":5000}}"[0m
+2024-02-01 15:33:31.973 +0530 [debug] ([34mconfigs.js[0m) [31mloaded resolved configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 15:33:31.973 +0530 [debug] ([34mlogger.js[0m) [31mStarting SSDK in node v18.19.0 on win32[0m
+2024-02-01 15:33:31.973 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/store.sqlite"[0m
+2024-02-01 15:33:31.974 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706778656241}}[0m
+2024-02-01 15:33:31.974 +0530 [debug] ([34mupdater.js[0m) [31mlast check less than 1 hours ago, not looking for updates[0m
+2024-02-01 15:33:31.977 +0530 [debug] ([34mindex.js[0m) [31mrunning with opts {}[0m
+2024-02-01 15:33:32.192 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"1.0","product":{"surveysparrow":{"location":{"full_page_app":{"url":"index.html","icon":"icon.svg"}}}},"whitelisted-domains":[],"engines":{"node":"18.19.0","ssdk":"0.1.9"}}.[0m
+2024-02-01 15:33:32.192 +0530 [debug] ([34mmanifest.js[0m) [31mInferred storage as features.[0m
+2024-02-01 15:33:32.198 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706778656241}}[0m
+2024-02-01 15:33:32.214 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706778656241}}[0m
+2024-02-01 15:33:33.347 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706778656241}}[0m
+2024-02-01 15:33:34.225 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2024-02-01 15:33:34.226 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2024-02-01 15:33:34.226 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator requests[0m
+2024-02-01 15:33:34.226 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2024-02-01 15:33:34.227 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2024-02-01 15:33:34.228 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if C:\Users\arvin\OneDrive\Desktop\chatgpt/config/ exists.[0m
+2024-02-01 15:33:34.228 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2024-02-01 15:33:34.228 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2024-02-01 15:33:34.228 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2024-02-01 15:33:34.228 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2024-02-01 15:33:34.230 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator lint[0m
+2024-02-01 15:33:34.231 +0530 [debug] ([34mlint.js[0m) [31mpassed fix flag: undefined[0m
+2024-02-01 15:33:34.231 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2024-02-01 15:33:34.231 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2024-02-01 15:33:34.231 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2024-02-01 15:33:34.232 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2024-02-01 15:33:34.232 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2024-02-01 15:33:34.232 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator version-check[0m
+2024-02-01 15:33:34.278 +0530 [debug] ([34mcoverage.js[0m) [31mSnoozing coverage.[0m
+2024-02-01 15:33:34.278 +0530 [debug] ([34mfrontend_framework.js[0m) [31mMounting the default Webpack config[0m
+2024-02-01 15:33:35.004 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2024-02-01 15:33:35.006 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 15:33:35.006 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? undefined[0m
+2024-02-01 15:33:35.006 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync storage[0m
+2024-02-01 15:33:38.974 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\index.html"}" to all listeners.[0m
+2024-02-01 15:33:39.054 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2024-02-01 15:33:39.082 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:33:39.083 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:33:39.101 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.3133680d.js[0m
+2024-02-01 15:33:39.110 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.3133680d.js[0m
+2024-02-01 15:33:39.576 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.018f4221.js[0m
+2024-02-01 15:33:39.577 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/main.018f4221.js[0m
+2024-02-01 15:33:39.644 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\bigint-pivot.js"[0m
+2024-02-01 15:33:39.646 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field-choice.js"[0m
+2024-02-01 15:33:39.647 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field.js"[0m
+2024-02-01 15:33:39.649 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity.js"[0m
+2024-02-01 15:33:39.650 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\record.js"[0m
+2024-02-01 15:33:39.651 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\string-pivot.js"[0m
+2024-02-01 15:33:39.665 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 15:33:39.666 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2024-02-01 15:33:39.667 +0530 [info] Starting local testing server at https://*:30001/    
+Append 'dev=true' to your Surveysparrow account URL to start testing    
+e.g. https://domain.surveysparrow.com/settings/marketplace-apps?dev=true    
+Quit the server with Control-C.
+2024-02-01 15:33:48.284 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 15:33:48.285 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"chatgpt","product":{"surveysparrow":{"location":{"full_page_app":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["storage"],"actions":false,"omni":false,"products":["surveysparrow"],"platform":"1.0","isInstall":false,"v2":[]}[0m
+2024-02-01 15:33:49.879 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2024-02-01 15:33:49.893 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:33:49.894 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:33:49.899 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.3133680d.js[0m
+2024-02-01 15:33:49.905 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.3133680d.js[0m
+2024-02-01 15:33:49.916 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.018f4221.js[0m
+2024-02-01 15:33:49.916 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/main.018f4221.js[0m
+2024-02-01 15:42:22.139 +0530 [debug] ([34mconfigs.js[0m) [31mloaded default configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 15:42:22.141 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin/.ssdk/configs.json: Cannot find module 'C:\Users\arvin/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 15:42:22.141 +0530 [debug] ([34mconfigs.js[0m) [31mloaded global configs as "{}"[0m
+2024-02-01 15:42:22.142 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json: Cannot find module 'C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 15:42:22.142 +0530 [debug] ([34mconfigs.js[0m) [31mloaded local configs as "{}"[0m
+2024-02-01 15:42:22.142 +0530 [debug] ([34mconfigs.js[0m) [31mloaded env configs as "{"updates":{},"log":{},"javascript":{},"request":{"timeout":5000}}"[0m
+2024-02-01 15:42:22.142 +0530 [debug] ([34mconfigs.js[0m) [31mloaded resolved configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 15:42:22.142 +0530 [debug] ([34mlogger.js[0m) [31mStarting SSDK in node v18.19.0 on win32[0m
+2024-02-01 15:42:22.142 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/store.sqlite"[0m
+2024-02-01 15:42:22.143 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706778656241}}[0m
+2024-02-01 15:42:22.143 +0530 [debug] ([34mupdater.js[0m) [31mlast check more than 1 hours ago, looking for updates again[0m
+2024-02-01 15:42:23.290 +0530 [debug] ([34mupdater.js[0m) [31mdownloaded update manifest as {"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}}[0m
+2024-02-01 15:42:23.291 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706778656241}}[0m
+2024-02-01 15:42:23.292 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706778656241}}[0m
+2024-02-01 15:42:23.298 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706778656241}}[0m
+2024-02-01 15:42:23.303 +0530 [debug] ([34mindex.js[0m) [31mrunning with opts {}[0m
+2024-02-01 15:42:23.509 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"1.0","product":{"surveysparrow":{"location":{"full_page_app":{"url":"index.html","icon":"icon.svg"}}}},"whitelisted-domains":[],"engines":{"node":"18.19.0","ssdk":"0.1.9"}}.[0m
+2024-02-01 15:42:23.509 +0530 [debug] ([34mmanifest.js[0m) [31mInferred storage as features.[0m
+2024-02-01 15:42:23.511 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706782343292}}[0m
+2024-02-01 15:42:23.526 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706782343292}}[0m
+2024-02-01 15:42:24.899 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706782343292}}[0m
+2024-02-01 15:42:25.822 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2024-02-01 15:42:25.822 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2024-02-01 15:42:25.822 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator requests[0m
+2024-02-01 15:42:25.822 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2024-02-01 15:42:25.823 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2024-02-01 15:42:25.823 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if C:\Users\arvin\OneDrive\Desktop\chatgpt/config/ exists.[0m
+2024-02-01 15:42:25.824 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2024-02-01 15:42:25.824 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2024-02-01 15:42:25.824 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2024-02-01 15:42:25.824 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2024-02-01 15:42:25.827 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator lint[0m
+2024-02-01 15:42:25.828 +0530 [debug] ([34mlint.js[0m) [31mpassed fix flag: undefined[0m
+2024-02-01 15:42:25.829 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2024-02-01 15:42:25.829 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2024-02-01 15:42:25.829 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2024-02-01 15:42:25.829 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2024-02-01 15:42:25.829 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2024-02-01 15:42:25.829 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator version-check[0m
+2024-02-01 15:42:25.875 +0530 [debug] ([34mcoverage.js[0m) [31mSnoozing coverage.[0m
+2024-02-01 15:42:25.876 +0530 [debug] ([34mfrontend_framework.js[0m) [31mMounting the default Webpack config[0m
+2024-02-01 15:42:27.131 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2024-02-01 15:42:27.134 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 15:42:27.135 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? undefined[0m
+2024-02-01 15:42:27.135 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync storage[0m
+2024-02-01 15:42:30.967 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\index.html"}" to all listeners.[0m
+2024-02-01 15:42:31.079 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\bigint-pivot.js"[0m
+2024-02-01 15:42:31.081 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field-choice.js"[0m
+2024-02-01 15:42:31.081 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field.js"[0m
+2024-02-01 15:42:31.082 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity.js"[0m
+2024-02-01 15:42:31.083 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\record.js"[0m
+2024-02-01 15:42:31.084 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\string-pivot.js"[0m
+2024-02-01 15:42:31.100 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 15:42:31.101 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2024-02-01 15:42:31.101 +0530 [info] Starting local testing server at https://*:30001/    
+Append 'dev=true' to your Surveysparrow account URL to start testing    
+e.g. https://domain.surveysparrow.com/settings/marketplace-apps?dev=true    
+Quit the server with Control-C.
+2024-02-01 15:45:36.747 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 15:45:36.748 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"chatgpt","product":{"surveysparrow":{"location":{"full_page_app":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["storage"],"actions":false,"omni":false,"products":["surveysparrow"],"platform":"1.0","isInstall":false,"v2":[]}[0m
+2024-02-01 15:47:31.883 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 15:47:31.884 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"chatgpt","product":{"surveysparrow":{"location":{"full_page_app":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["storage"],"actions":false,"omni":false,"products":["surveysparrow"],"platform":"1.0","isInstall":false,"v2":[]}[0m
+2024-02-01 15:47:33.486 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2024-02-01 15:47:33.509 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:47:33.510 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:47:33.534 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.3133680d.js[0m
+2024-02-01 15:47:33.543 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.3133680d.js[0m
+2024-02-01 15:47:34.361 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.018f4221.js[0m
+2024-02-01 15:47:34.361 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/main.018f4221.js[0m
+2024-02-01 15:54:47.431 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"config\\iparams.json"}" to all listeners.[0m
+2024-02-01 15:54:47.440 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2024-02-01 15:54:47.449 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:54:47.450 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:54:47.454 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.3133680d.js[0m
+2024-02-01 15:54:47.460 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.3133680d.js[0m
+2024-02-01 15:54:47.466 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.018f4221.js[0m
+2024-02-01 15:54:47.466 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/main.018f4221.js[0m
+2024-02-01 15:55:13.572 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\index.html"}" to all listeners.[0m
+2024-02-01 15:55:13.585 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2024-02-01 15:55:13.598 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.aae17376.js[0m
+2024-02-01 15:55:13.653 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.aae17376.js[0m
+2024-02-01 15:55:14.244 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:55:14.244 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 15:55:14.249 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.5cbf596b.js[0m
+2024-02-01 15:55:14.250 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/main.5cbf596b.js[0m
+2024-02-01 15:59:25.851 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 15:59:25.860 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 15:59:25.860 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"chatgpt","product":{"surveysparrow":{"location":{"full_page_app":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["storage"],"actions":false,"omni":false,"products":["surveysparrow"],"platform":"1.0","isInstall":true,"v2":[]}[0m
+2024-02-01 22:27:24.559 +0530 [debug] ([34mconfigs.js[0m) [31mloaded default configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 22:27:24.564 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin/.ssdk/configs.json: Cannot find module 'C:\Users\arvin/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 22:27:24.564 +0530 [debug] ([34mconfigs.js[0m) [31mloaded global configs as "{}"[0m
+2024-02-01 22:27:24.564 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json: Cannot find module 'C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 22:27:24.565 +0530 [debug] ([34mconfigs.js[0m) [31mloaded local configs as "{}"[0m
+2024-02-01 22:27:24.565 +0530 [debug] ([34mconfigs.js[0m) [31mloaded env configs as "{"updates":{},"log":{},"javascript":{},"request":{"timeout":5000}}"[0m
+2024-02-01 22:27:24.565 +0530 [debug] ([34mconfigs.js[0m) [31mloaded resolved configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 22:27:24.565 +0530 [debug] ([34mlogger.js[0m) [31mStarting SSDK in node v18.19.0 on win32[0m
+2024-02-01 22:27:24.565 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/store.sqlite"[0m
+2024-02-01 22:27:24.565 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706782343292}}[0m
+2024-02-01 22:27:24.565 +0530 [debug] ([34mupdater.js[0m) [31mlast check more than 1 hours ago, looking for updates again[0m
+2024-02-01 22:27:25.646 +0530 [debug] ([34mupdater.js[0m) [31mdownloaded update manifest as {"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}}[0m
+2024-02-01 22:27:25.647 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706782343292}}[0m
+2024-02-01 22:27:25.647 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706782343292}}[0m
+2024-02-01 22:27:25.654 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706782343292}}[0m
+2024-02-01 22:27:25.660 +0530 [debug] ([34mindex.js[0m) [31mrunning with opts {}[0m
+2024-02-01 22:27:27.594 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"1.0","product":{"surveysparrow":{"location":{"full_page_app":{"url":"index.html","icon":"icon.svg"}}}},"whitelisted-domains":[],"engines":{"node":"18.19.0","ssdk":"0.1.9"}}.[0m
+2024-02-01 22:27:27.594 +0530 [debug] ([34mmanifest.js[0m) [31mInferred storage as features.[0m
+2024-02-01 22:27:27.618 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 22:27:27.833 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 22:27:41.283 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 22:27:51.924 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2024-02-01 22:27:51.924 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2024-02-01 22:27:51.924 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator requests[0m
+2024-02-01 22:27:51.924 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2024-02-01 22:27:51.926 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2024-02-01 22:27:51.926 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if C:\Users\arvin\OneDrive\Desktop\chatgpt/config/ exists.[0m
+2024-02-01 22:27:51.926 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2024-02-01 22:27:51.926 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2024-02-01 22:27:51.926 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2024-02-01 22:27:51.927 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2024-02-01 22:27:51.934 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator lint[0m
+2024-02-01 22:27:51.934 +0530 [debug] ([34mlint.js[0m) [31mpassed fix flag: undefined[0m
+2024-02-01 22:27:51.935 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2024-02-01 22:27:51.935 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2024-02-01 22:27:51.935 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2024-02-01 22:27:51.935 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2024-02-01 22:27:51.935 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2024-02-01 22:27:51.935 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator version-check[0m
+2024-02-01 22:27:52.551 +0530 [debug] ([34mcoverage.js[0m) [31mSnoozing coverage.[0m
+2024-02-01 22:27:52.552 +0530 [debug] ([34mfrontend_framework.js[0m) [31mMounting the default Webpack config[0m
+2024-02-01 22:28:02.485 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2024-02-01 22:28:02.487 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 22:28:02.488 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? undefined[0m
+2024-02-01 22:28:02.488 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync storage[0m
+2024-02-01 22:28:23.019 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\scripts\\runtime.d7e1b3ea.js.map"}" to all listeners.[0m
+2024-02-01 22:28:23.020 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\scripts\\runtime.d7e1b3ea.js"}" to all listeners.[0m
+2024-02-01 22:28:23.020 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\index.html"}" to all listeners.[0m
+2024-02-01 22:28:23.489 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\bigint-pivot.js"[0m
+2024-02-01 22:28:23.522 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field-choice.js"[0m
+2024-02-01 22:28:23.538 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field.js"[0m
+2024-02-01 22:28:23.555 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity.js"[0m
+2024-02-01 22:28:23.573 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\record.js"[0m
+2024-02-01 22:28:23.590 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\string-pivot.js"[0m
+2024-02-01 22:28:23.630 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 22:28:23.631 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2024-02-01 22:28:23.632 +0530 [info] Starting local testing server at https://*:30001/    
+Append 'dev=true' to your Surveysparrow account URL to start testing    
+e.g. https://domain.surveysparrow.com/settings/marketplace-apps?dev=true    
+Quit the server with Control-C.
+2024-02-01 22:28:23.635 +0530 [info] To test the installation page, visit - https://localhost:30001/custom_configs
+2024-02-01 22:28:23.637 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\index.html"}" to all listeners.[0m
+2024-02-01 22:43:26.902 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"1.0","product":{"surveysparrow":{"location":{"full_page_app":{"url":"index.html","icon":"icon.svg"}}}},"whitelisted-domains":["http://(.*).surveysparrow.test(.*)","https://(.*).surveysparrow.com(.*)","https://(.*).surveySparrow.com(.*)","https://api.openai.com/v1/chat/completions"],"engines":{"node":"18.19.0","ssdk":"0.1.9"}}.[0m
+2024-02-01 22:43:26.903 +0530 [debug] ([34mmanifest.js[0m) [31mInferred storage as features.[0m
+2024-02-01 22:43:26.903 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"manifest.json"}" to all listeners.[0m
+2024-02-01 22:43:42.101 +0530 [debug] ([34mconfigs.js[0m) [31mloaded default configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 22:43:42.103 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin/.ssdk/configs.json: Cannot find module 'C:\Users\arvin/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 22:43:42.103 +0530 [debug] ([34mconfigs.js[0m) [31mloaded global configs as "{}"[0m
+2024-02-01 22:43:42.103 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json: Cannot find module 'C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 22:43:42.103 +0530 [debug] ([34mconfigs.js[0m) [31mloaded local configs as "{}"[0m
+2024-02-01 22:43:42.103 +0530 [debug] ([34mconfigs.js[0m) [31mloaded env configs as "{"updates":{},"log":{},"javascript":{},"request":{"timeout":5000}}"[0m
+2024-02-01 22:43:42.103 +0530 [debug] ([34mconfigs.js[0m) [31mloaded resolved configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 22:43:42.103 +0530 [debug] ([34mlogger.js[0m) [31mStarting SSDK in node v18.19.0 on win32[0m
+2024-02-01 22:43:42.103 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/store.sqlite"[0m
+2024-02-01 22:43:42.104 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 22:43:42.104 +0530 [debug] ([34mupdater.js[0m) [31mlast check less than 1 hours ago, not looking for updates[0m
+2024-02-01 22:43:42.107 +0530 [debug] ([34mindex.js[0m) [31mrunning with opts {}[0m
+2024-02-01 22:43:42.285 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"1.0","product":{"surveysparrow":{"location":{"full_page_app":{"url":"index.html","icon":"icon.svg"}}}},"whitelisted-domains":["http://(.*).surveysparrow.test(.*)","https://(.*).surveysparrow.com(.*)","https://(.*).surveySparrow.com(.*)","https://api.openai.com/v1/chat/completions"],"engines":{"node":"18.19.0","ssdk":"0.1.9"}}.[0m
+2024-02-01 22:43:42.285 +0530 [debug] ([34mmanifest.js[0m) [31mInferred storage as features.[0m
+2024-02-01 22:43:42.289 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 22:43:42.306 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 22:43:43.249 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 22:43:44.001 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2024-02-01 22:43:44.001 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2024-02-01 22:43:44.001 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator requests[0m
+2024-02-01 22:43:44.002 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2024-02-01 22:43:44.003 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2024-02-01 22:43:44.003 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if C:\Users\arvin\OneDrive\Desktop\chatgpt/config/ exists.[0m
+2024-02-01 22:43:44.003 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2024-02-01 22:43:44.003 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2024-02-01 22:43:44.003 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2024-02-01 22:43:44.003 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2024-02-01 22:43:44.006 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator lint[0m
+2024-02-01 22:43:44.006 +0530 [debug] ([34mlint.js[0m) [31mpassed fix flag: undefined[0m
+2024-02-01 22:43:44.007 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2024-02-01 22:43:44.007 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2024-02-01 22:43:44.007 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2024-02-01 22:43:44.007 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2024-02-01 22:43:44.007 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2024-02-01 22:43:44.007 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator version-check[0m
+2024-02-01 22:43:44.041 +0530 [debug] ([34mcoverage.js[0m) [31mSnoozing coverage.[0m
+2024-02-01 22:43:44.042 +0530 [debug] ([34mfrontend_framework.js[0m) [31mMounting the default Webpack config[0m
+2024-02-01 22:43:44.614 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2024-02-01 22:43:44.616 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 22:43:44.617 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? undefined[0m
+2024-02-01 22:43:44.617 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync storage[0m
+2024-02-01 22:43:48.257 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\index.html"}" to all listeners.[0m
+2024-02-01 22:43:48.258 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\scripts\\runtime.d7e1b3ea.js"}" to all listeners.[0m
+2024-02-01 22:43:48.258 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\scripts\\main.da2695e2.js.map"}" to all listeners.[0m
+2024-02-01 22:43:48.258 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\scripts\\main.da2695e2.js"}" to all listeners.[0m
+2024-02-01 22:43:48.258 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\scripts\\runtime.d7e1b3ea.js.map"}" to all listeners.[0m
+2024-02-01 22:43:48.258 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\scripts\\vendors.8b088731.js"}" to all listeners.[0m
+2024-02-01 22:43:48.258 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\scripts\\vendors.8b088731.js.map"}" to all listeners.[0m
+2024-02-01 22:43:48.360 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\bigint-pivot.js"[0m
+2024-02-01 22:43:48.362 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field-choice.js"[0m
+2024-02-01 22:43:48.363 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field.js"[0m
+2024-02-01 22:43:48.363 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity.js"[0m
+2024-02-01 22:43:48.364 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\record.js"[0m
+2024-02-01 22:43:48.364 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\string-pivot.js"[0m
+2024-02-01 22:43:48.380 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 22:43:48.381 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2024-02-01 22:43:48.382 +0530 [info] Starting local testing server at https://*:30001/    
+Append 'dev=true' to your Surveysparrow account URL to start testing    
+e.g. https://domain.surveysparrow.com/settings/marketplace-apps?dev=true    
+Quit the server with Control-C.
+2024-02-01 22:43:48.383 +0530 [info] To test the installation page, visit - https://localhost:30001/custom_configs
+2024-02-01 22:46:36.405 +0530 [debug] ([34mconfigs.js[0m) [31mloaded default configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 22:46:36.405 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin/.ssdk/configs.json: Cannot find module 'C:\Users\arvin/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 22:46:36.406 +0530 [debug] ([34mconfigs.js[0m) [31mloaded global configs as "{}"[0m
+2024-02-01 22:46:36.406 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json: Cannot find module 'C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 22:46:36.406 +0530 [debug] ([34mconfigs.js[0m) [31mloaded local configs as "{}"[0m
+2024-02-01 22:46:36.406 +0530 [debug] ([34mconfigs.js[0m) [31mloaded env configs as "{"updates":{},"log":{},"javascript":{},"request":{"timeout":5000}}"[0m
+2024-02-01 22:46:36.406 +0530 [debug] ([34mconfigs.js[0m) [31mloaded resolved configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 22:46:36.406 +0530 [debug] ([34mlogger.js[0m) [31mStarting SSDK in node v18.19.0 on win32[0m
+2024-02-01 22:46:36.406 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/store.sqlite"[0m
+2024-02-01 22:46:36.407 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 22:46:36.407 +0530 [debug] ([34mupdater.js[0m) [31mlast check less than 1 hours ago, not looking for updates[0m
+2024-02-01 22:46:36.410 +0530 [debug] ([34mindex.js[0m) [31mrunning with opts {}[0m
+2024-02-01 22:46:36.593 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"1.0","product":{"surveysparrow":{"location":{"full_page_app":{"url":"index.html","icon":"icon.svg"}}}},"whitelisted-domains":["http://(.*).surveysparrow.test(.*)","https://(.*).surveysparrow.com(.*)","https://(.*).surveySparrow.com(.*)","https://api.openai.com/v1/chat/completions"],"engines":{"node":"18.19.0","ssdk":"0.1.9"}}.[0m
+2024-02-01 22:46:36.593 +0530 [debug] ([34mmanifest.js[0m) [31mInferred storage as features.[0m
+2024-02-01 22:46:36.598 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 22:46:36.611 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 22:46:37.550 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 22:46:38.309 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2024-02-01 22:46:38.309 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2024-02-01 22:46:38.309 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator requests[0m
+2024-02-01 22:46:38.310 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2024-02-01 22:46:38.310 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2024-02-01 22:46:38.311 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if C:\Users\arvin\OneDrive\Desktop\chatgpt/config/ exists.[0m
+2024-02-01 22:46:38.311 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2024-02-01 22:46:38.311 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2024-02-01 22:46:38.311 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2024-02-01 22:46:38.311 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2024-02-01 22:46:38.314 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator lint[0m
+2024-02-01 22:46:38.314 +0530 [debug] ([34mlint.js[0m) [31mpassed fix flag: undefined[0m
+2024-02-01 22:46:38.315 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2024-02-01 22:46:38.315 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2024-02-01 22:46:38.315 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2024-02-01 22:46:38.315 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2024-02-01 22:46:38.315 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2024-02-01 22:46:38.315 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator version-check[0m
+2024-02-01 22:46:38.348 +0530 [debug] ([34mcoverage.js[0m) [31mSnoozing coverage.[0m
+2024-02-01 22:46:38.348 +0530 [debug] ([34mfrontend_framework.js[0m) [31mMounting the default Webpack config[0m
+2024-02-01 22:46:38.922 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2024-02-01 22:46:38.924 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 22:46:38.924 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? undefined[0m
+2024-02-01 22:46:38.924 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync storage[0m
+2024-02-01 22:46:42.708 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\index.html"}" to all listeners.[0m
+2024-02-01 22:46:42.799 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\bigint-pivot.js"[0m
+2024-02-01 22:46:42.801 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field-choice.js"[0m
+2024-02-01 22:46:42.802 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field.js"[0m
+2024-02-01 22:46:42.803 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity.js"[0m
+2024-02-01 22:46:42.804 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\record.js"[0m
+2024-02-01 22:46:42.804 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\string-pivot.js"[0m
+2024-02-01 22:46:42.820 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 22:46:42.820 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2024-02-01 22:46:42.821 +0530 [info] Starting local testing server at https://*:30001/    
+Append 'dev=true' to your Surveysparrow account URL to start testing    
+e.g. https://domain.surveysparrow.com/settings/marketplace-apps?dev=true    
+Quit the server with Control-C.
+2024-02-01 22:46:42.822 +0530 [info] To test the installation page, visit - https://localhost:30001/custom_configs
+2024-02-01 22:48:30.714 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 22:48:30.717 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 22:48:30.718 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"chatgpt","product":{"surveysparrow":{"location":{"full_page_app":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["storage"],"actions":false,"omni":false,"products":["surveysparrow"],"platform":"1.0","isInstall":true,"v2":[]}[0m
+2024-02-01 22:48:30.743 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 22:48:50.525 +0530 [debug] ([34mdata.js[0m) [31mRead {}[0m
+2024-02-01 22:49:06.573 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:49:06.575 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:49:06.575 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"chatgpt","product":{"surveysparrow":{"location":{"full_page_app":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["storage"],"actions":false,"omni":false,"products":["surveysparrow"],"platform":"1.0","isInstall":false,"v2":[]}[0m
+2024-02-01 22:49:06.588 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:49:38.489 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:49:38.490 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:49:38.490 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"chatgpt","product":{"surveysparrow":{"location":{"full_page_app":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["storage"],"actions":false,"omni":false,"products":["surveysparrow"],"platform":"1.0","isInstall":false,"v2":[]}[0m
+2024-02-01 22:49:40.688 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2024-02-01 22:49:40.699 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 22:49:40.701 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 22:49:40.713 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.8b088731.js[0m
+2024-02-01 22:49:40.720 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.8b088731.js[0m
+2024-02-01 22:49:41.459 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.e83c1a75.js[0m
+2024-02-01 22:49:41.459 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/main.e83c1a75.js[0m
+2024-02-01 22:50:00.055 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:50:00.055 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:50:00.517 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:50:00.518 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:55:24.944 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:55:24.945 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:55:25.303 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:55:25.303 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:56:21.368 +0530 [debug] ([34mconfigs.js[0m) [31mloaded default configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 22:56:21.369 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin/.ssdk/configs.json: Cannot find module 'C:\Users\arvin/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 22:56:21.369 +0530 [debug] ([34mconfigs.js[0m) [31mloaded global configs as "{}"[0m
+2024-02-01 22:56:21.370 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json: Cannot find module 'C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 22:56:21.370 +0530 [debug] ([34mconfigs.js[0m) [31mloaded local configs as "{}"[0m
+2024-02-01 22:56:21.370 +0530 [debug] ([34mconfigs.js[0m) [31mloaded env configs as "{"updates":{},"log":{},"javascript":{},"request":{"timeout":5000}}"[0m
+2024-02-01 22:56:21.370 +0530 [debug] ([34mconfigs.js[0m) [31mloaded resolved configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 22:56:21.370 +0530 [debug] ([34mlogger.js[0m) [31mStarting SSDK in node v18.19.0 on win32[0m
+2024-02-01 22:56:21.370 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/store.sqlite"[0m
+2024-02-01 22:56:21.371 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 22:56:21.371 +0530 [debug] ([34mupdater.js[0m) [31mlast check less than 1 hours ago, not looking for updates[0m
+2024-02-01 22:56:21.375 +0530 [debug] ([34mindex.js[0m) [31mrunning with opts {}[0m
+2024-02-01 22:56:21.552 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"1.0","product":{"surveysparrow":{"location":{"full_page_app":{"url":"index.html","icon":"icon.svg"}}}},"whitelisted-domains":["http://(.*).surveysparrow.test(.*)","https://(.*).surveysparrow.com(.*)","https://(.*).surveySparrow.com(.*)","https://api.openai.com/v1/chat/completions"],"engines":{"node":"18.19.0","ssdk":"0.1.9"}}.[0m
+2024-02-01 22:56:21.552 +0530 [debug] ([34mmanifest.js[0m) [31mInferred storage as features.[0m
+2024-02-01 22:56:21.559 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 22:56:21.573 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 22:56:22.513 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 22:56:23.413 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2024-02-01 22:56:23.413 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2024-02-01 22:56:23.413 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator requests[0m
+2024-02-01 22:56:23.413 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2024-02-01 22:56:23.414 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2024-02-01 22:56:23.415 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if C:\Users\arvin\OneDrive\Desktop\chatgpt/config/ exists.[0m
+2024-02-01 22:56:23.415 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2024-02-01 22:56:23.415 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2024-02-01 22:56:23.415 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2024-02-01 22:56:23.415 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2024-02-01 22:56:23.419 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator lint[0m
+2024-02-01 22:56:23.419 +0530 [debug] ([34mlint.js[0m) [31mpassed fix flag: undefined[0m
+2024-02-01 22:56:23.420 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2024-02-01 22:56:23.420 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2024-02-01 22:56:23.420 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2024-02-01 22:56:23.420 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2024-02-01 22:56:23.420 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2024-02-01 22:56:23.420 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator version-check[0m
+2024-02-01 22:56:23.466 +0530 [debug] ([34mcoverage.js[0m) [31mSnoozing coverage.[0m
+2024-02-01 22:56:23.467 +0530 [debug] ([34mfrontend_framework.js[0m) [31mMounting the default Webpack config[0m
+2024-02-01 22:56:24.148 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2024-02-01 22:56:24.150 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:56:24.150 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? undefined[0m
+2024-02-01 22:56:24.150 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync storage[0m
+2024-02-01 22:56:28.568 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\index.html"}" to all listeners.[0m
+2024-02-01 22:56:28.617 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2024-02-01 22:56:28.631 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 22:56:28.632 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 22:56:28.646 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.8b088731.js[0m
+2024-02-01 22:56:28.654 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.8b088731.js[0m
+2024-02-01 22:56:29.893 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.e83c1a75.js[0m
+2024-02-01 22:56:29.893 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/main.e83c1a75.js[0m
+2024-02-01 22:56:29.987 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\bigint-pivot.js"[0m
+2024-02-01 22:56:29.988 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field-choice.js"[0m
+2024-02-01 22:56:29.990 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field.js"[0m
+2024-02-01 22:56:29.992 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity.js"[0m
+2024-02-01 22:56:29.992 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\record.js"[0m
+2024-02-01 22:56:29.993 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\string-pivot.js"[0m
+2024-02-01 22:56:30.017 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:56:30.018 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2024-02-01 22:56:30.019 +0530 [info] Starting local testing server at https://*:30001/    
+Append 'dev=true' to your Surveysparrow account URL to start testing    
+e.g. https://domain.surveysparrow.com/settings/marketplace-apps?dev=true    
+Quit the server with Control-C.
+2024-02-01 22:56:30.020 +0530 [info] To test the installation page, visit - https://localhost:30001/custom_configs
+2024-02-01 22:56:56.472 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:56:56.473 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:56:56.473 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"chatgpt","product":{"surveysparrow":{"location":{"full_page_app":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["storage"],"actions":false,"omni":false,"products":["surveysparrow"],"platform":"1.0","isInstall":false,"v2":[]}[0m
+2024-02-01 22:56:56.486 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:57:00.077 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:57:14.988 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:57:14.990 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:57:15.452 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 22:57:15.452 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:19.636 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:20.465 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:20.694 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:21.338 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:21.528 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:21.754 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:21.944 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:22.113 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:22.290 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:22.493 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:32.075 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:32.076 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:32.076 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"chatgpt","product":{"surveysparrow":{"location":{"full_page_app":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["storage"],"actions":false,"omni":false,"products":["surveysparrow"],"platform":"1.0","isInstall":false,"v2":[]}[0m
+2024-02-01 23:00:34.043 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2024-02-01 23:00:34.054 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 23:00:34.055 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 23:00:34.061 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.8b088731.js[0m
+2024-02-01 23:00:34.068 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.8b088731.js[0m
+2024-02-01 23:00:34.079 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.e83c1a75.js[0m
+2024-02-01 23:00:34.079 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/main.e83c1a75.js[0m
+2024-02-01 23:00:44.804 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:44.804 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:45.476 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:00:45.476 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:01:04.880 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:01:04.882 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:01:05.240 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:01:05.241 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:01:30.495 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:01:30.496 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:01:30.496 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"chatgpt","product":{"surveysparrow":{"location":{"full_page_app":{"url":"agent/index.html","icon":"agent/icon.svg"}}}},"features":["storage"],"actions":false,"omni":false,"products":["surveysparrow"],"platform":"1.0","isInstall":false,"v2":[]}[0m
+2024-02-01 23:02:58.032 +0530 [debug] ([34mconfigs.js[0m) [31mloaded default configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 23:02:58.033 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin/.ssdk/configs.json: Cannot find module 'C:\Users\arvin/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 23:02:58.033 +0530 [debug] ([34mconfigs.js[0m) [31mloaded global configs as "{}"[0m
+2024-02-01 23:02:58.034 +0530 [debug] ([34mfile.js[0m) [31mError while requiring C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json: Cannot find module 'C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/configs.json'
+Require stack:
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\utils\file.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\configs.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\logger.js
+- C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\index.js[0m
+2024-02-01 23:02:58.034 +0530 [debug] ([34mconfigs.js[0m) [31mloaded local configs as "{}"[0m
+2024-02-01 23:02:58.034 +0530 [debug] ([34mconfigs.js[0m) [31mloaded env configs as "{"updates":{},"log":{},"javascript":{},"request":{"timeout":5000}}"[0m
+2024-02-01 23:02:58.034 +0530 [debug] ([34mconfigs.js[0m) [31mloaded resolved configs as "{"updates":{"manifest_url":"https://ssdk.surveysparrow.dev/assets/ssdk/updates.json","period":1},"log":{"level":"info"},"javascript":{"ecma_version":2020},"request":{"timeout":5000}}"[0m
+2024-02-01 23:02:58.034 +0530 [debug] ([34mlogger.js[0m) [31mStarting SSDK in node v18.19.0 on win32[0m
+2024-02-01 23:02:58.034 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "C:\Users\arvin\OneDrive\Desktop\chatgpt/.ssdk/store.sqlite"[0m
+2024-02-01 23:02:58.034 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 23:02:58.034 +0530 [debug] ([34mupdater.js[0m) [31mlast check less than 1 hours ago, not looking for updates[0m
+2024-02-01 23:02:58.037 +0530 [debug] ([34mindex.js[0m) [31mrunning with opts {}[0m
+2024-02-01 23:02:58.239 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"1.0","product":{"surveysparrow":{"location":{"full_page_app":{"url":"index.html","icon":"icon.svg"}}}},"whitelisted-domains":["http://(.*).surveysparrow.test(.*)","https://(.*).surveysparrow.com(.*)","https://(.*).surveySparrow.com(.*)","https://api.openai.com/v1/chat/completions"],"engines":{"node":"18.19.0","ssdk":"0.1.9"}}.[0m
+2024-02-01 23:02:58.239 +0530 [debug] ([34mmanifest.js[0m) [31mInferred storage as features.[0m
+2024-02-01 23:02:58.242 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 23:02:58.255 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 23:02:59.236 +0530 [debug] ([34mdata.js[0m) [31mRead {"version_details":{"cli":{"deprecated":{"version":"<-0.1.0","message":"This SSDK version will be deprecated by Dec 31, 2024 There will be no further feature updates to this version. For a seamless app building experience, ensure to move to the latest SSDK version. For more information, see https://sdk.surveysparrow.dev/."},"forced":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"Your SSDK version has been forced updated to v0.1.9, please visit https://sdk.surveysparrow.dev/ to know more"},"latest":{"version":"0.1.9","command":"npm install https://ssdk.surveysparrow.dev/ssdk.tgz -g","message":"You are on the latest SSDK version. For information on the features available as part of this SSDK version, see https://sdk.surveysparrow.dev/."}},"addon":{"version":"1.13.1","url":"https://ssdk.surveysparrow.dev/addons/addon.zip"}},"last_updated":{"time_stamp":1706806645648}}[0m
+2024-02-01 23:03:00.141 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2024-02-01 23:03:00.141 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2024-02-01 23:03:00.141 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator requests[0m
+2024-02-01 23:03:00.141 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2024-02-01 23:03:00.142 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2024-02-01 23:03:00.143 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if C:\Users\arvin\OneDrive\Desktop\chatgpt/config/ exists.[0m
+2024-02-01 23:03:00.143 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2024-02-01 23:03:00.143 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2024-02-01 23:03:00.143 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2024-02-01 23:03:00.143 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2024-02-01 23:03:00.146 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator lint[0m
+2024-02-01 23:03:00.146 +0530 [debug] ([34mlint.js[0m) [31mpassed fix flag: undefined[0m
+2024-02-01 23:03:00.147 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2024-02-01 23:03:00.147 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2024-02-01 23:03:00.147 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2024-02-01 23:03:00.147 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2024-02-01 23:03:00.147 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2024-02-01 23:03:00.147 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator version-check[0m
+2024-02-01 23:03:00.187 +0530 [debug] ([34mcoverage.js[0m) [31mSnoozing coverage.[0m
+2024-02-01 23:03:00.187 +0530 [debug] ([34mfrontend_framework.js[0m) [31mMounting the default Webpack config[0m
+2024-02-01 23:03:00.875 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2024-02-01 23:03:00.877 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:03:00.877 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? undefined[0m
+2024-02-01 23:03:00.877 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync storage[0m
+2024-02-01 23:03:05.657 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"app\\index.html"}" to all listeners.[0m
+2024-02-01 23:03:05.774 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\bigint-pivot.js"[0m
+2024-02-01 23:03:05.775 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field-choice.js"[0m
+2024-02-01 23:03:05.776 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity-field.js"[0m
+2024-02-01 23:03:05.777 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\entity.js"[0m
+2024-02-01 23:03:05.778 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\record.js"[0m
+2024-02-01 23:03:05.779 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\arvin\AppData\Roaming\npm\node_modules\ssdk\lib\models\string-pivot.js"[0m
+2024-02-01 23:03:05.800 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:03:05.800 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2024-02-01 23:03:05.801 +0530 [info] Starting local testing server at https://*:30001/    
+Append 'dev=true' to your Surveysparrow account URL to start testing    
+e.g. https://domain.surveysparrow.com/settings/marketplace-apps?dev=true    
+Quit the server with Control-C.
+2024-02-01 23:03:05.802 +0530 [info] To test the installation page, visit - https://localhost:30001/custom_configs
+2024-02-01 23:05:16.755 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:05:21.771 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2024-02-01 23:05:21.816 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 23:05:21.816 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/runtime.d7e1b3ea.js[0m
+2024-02-01 23:05:21.833 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/vendors.8b088731.js[0m
+2024-02-01 23:05:21.843 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/vendors.8b088731.js[0m
+2024-02-01 23:05:22.915 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/main.e83c1a75.js[0m
+2024-02-01 23:05:22.916 +0530 [debug] ([34mcoverage.js[0m) [31mSkipped instrumenting ./app/scripts/main.e83c1a75.js[0m
+2024-02-01 23:09:09.181 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:09:09.182 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:09:09.601 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:09:09.602 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:09:33.056 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:09:33.056 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:09:33.388 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
+2024-02-01 23:09:33.389 +0530 [debug] ([34mdata.js[0m) [31mRead {"chatgp_101_101_surveysparrow":{"chatgp_101_101_custom_iparams":{"__meta":{"secure":["surveysparrow_api_key"]},"surveysparrow_api_key":"prQ9TMCe-dHHzZ82yO8qNCfnubUMxoe0g98a5jJwsYD-d7AaQxZikJRV9Ha0oe4MRI934ykVySfbVYt6b2gYm61A"}}}[0m
